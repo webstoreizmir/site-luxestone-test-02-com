@@ -1,88 +1,114 @@
 {
   "metadata": {
-    "title": "Modern Ajans Pro",
-    "description": "Profesyonel dijital çözümler."
+    "title": "Luxe Stone Villa | Bodrum ve Çeşme'de Sürdürülebilir Lüks Yaşam",
+    "description": "Luxe Stone Villa: Bodrum ve Çeşme'de 20 yıllık deneyimle kişiye özel lüks taş villalar inşa ediyoruz. Doğal malzemeler ve modern teknolojiyi birleştirerek sürdürülebilir ve estetik yaşam alanları yaratıyoruz."
   },
   "theme": {
     "colors": {
-      "primary": "#2563eb",
-      "secondary": "#1e40af",
-      "background": "#0f172a",
-      "text": "#f8fafc"
+      "primary": "#343a40",
+      "secondary": "#FFD700",
+      "background": "#f8f9fa",
+      "text": "#212529"
     },
     "fonts": {
-      "heading": "Montserrat",
-      "body": "Inter"
+      "heading": "Playfair Display",
+      "body": "Roboto"
     },
     "style": "modern"
   },
   "images": {
-    "hero_keyword": "modern office architecture glass",
-    "about_keyword": "team meeting creative",
+    "hero_keyword": "luxury stone villa exterior at sunset, infinity pool",
+    "about_keyword": "architectural design studio interior, natural light, stone samples",
     "feature_keywords": [
-      "code",
-      "design",
-      "rocket"
+      "modern villa design sketches, architectural blueprints",
+      "luxury villa construction site, natural stone walls",
+      "modern villa landscaping, mediterranean garden design"
     ]
   },
   "content": {
     "hero": {
-      "headline": "Geleceği Şekillendiriyoruz",
-      "subheadline": "İşletmeniz için en modern teknolojileri kullanarak dijital dünyada fark yaratın.",
-      "ctaButtonText": "Hemen Başlayın"
+      "headline": "Hayallerinizdeki Taş Villayı İnşa Edin",
+      "subheadline": "Bodrum ve Çeşme'de 20 Yıllık Lüks Villa Deneyimi",
+      "ctaButtonText": "Ücretsiz Danışmanlık Alın"
     },
     "about": {
-      "title": "Biz Kimiz?",
-      "description": "2010 yılından beri sektörde öncü çözümler üretiyoruz. Müşteri memnuniyeti odaklı yaklaşımımızla markanızı zirveye taşıyoruz.",
+      "title": "Lüks ve Sürdürülebilir Yaşamın Mimarları",
+      "description": "Luxe Stone Villa olarak, Bodrum ve Çeşme'nin eşsiz doğasında, kişiye özel lüks taş villalar inşa etme konusunda uzmanız. 20 yılı aşkın deneyimimizle, doğal malzemeleri modern teknolojiyle birleştirerek, sürdürülebilir ve estetik açıdan kusursuz yaşam alanları yaratıyoruz. Her projede, müşterilerimizin hayallerini gerçeğe dönüştürmek için titizlikle çalışıyoruz.",
       "stats": [
         {
           "label": "Tamamlanan Proje",
-          "value": "500+"
-        },
-        {
-          "label": "Mutlu Müşteri",
-          "value": "150+"
+          "value": "50+"
         },
         {
           "label": "Yıllık Deneyim",
-          "value": "12"
+          "value": "20+"
         }
       ]
     },
     "services": [
       {
-        "title": "Web Tasarım",
-        "description": "Mobil uyumlu, hızlı ve modern web siteleri.",
-        "icon": "💻"
+        "title": "Özel Villa Tasarımı",
+        "description": "Hayallerinizdeki villanın tasarımını, ihtiyaçlarınıza ve zevkinize göre özel olarak şekillendiriyoruz.",
+        "icon": "✨"
       },
       {
-        "title": "SEO Optimizasyonu",
-        "description": "Google'da ilk sıralarda yerinizi alın.",
+        "title": "Anahtar Teslim İnşaat",
+        "description": "Tüm inşaat sürecini, en yüksek kalite standartlarında ve zamanında tamamlayarak, anahtarınızı size teslim ediyoruz.",
         "icon": "🚀"
       },
       {
-        "title": "Sosyal Medya",
-        "description": "Markanızın sesini dünyaya duyurun.",
-        "icon": "📱"
+        "title": "Peyzaj Mimarlığı",
+        "description": "Villanızın çevresini, doğal güzelliklerle uyumlu, estetik ve fonksiyonel yaşam alanlarına dönüştürüyoruz.",
+        "icon": "💼"
+      }
+    ],
+    "process": [
+      {
+        "step": "01",
+        "title": "Konsept Geliştirme & Tasarım",
+        "description": "İhtiyaçlarınızı ve beklentilerinizi detaylı bir şekilde analiz ediyor, hayallerinizdeki villanın konseptini oluşturuyoruz. Ardından, estetik ve fonksiyonelliği bir araya getiren özel bir tasarım hazırlıyoruz."
+      },
+      {
+        "step": "02",
+        "title": "İnşaat ve Uygulama",
+        "description": "Onaylanan tasarım doğrultusunda, alanında uzman ekiplerimizle inşaat sürecini başlatıyoruz. En kaliteli malzemeleri kullanarak, titizlikle ve zamanında uygulamayı gerçekleştiriyoruz. Sürekli olarak iletişim halinde kalarak, sürecin her aşamasında sizi bilgilendiriyoruz."
+      },
+      {
+        "step": "03",
+        "title": "Teslim ve Destek",
+        "description": "Villanızı, belirlenen tarihte anahtar teslim olarak size sunuyoruz. Teslim sonrası süreçte de, ihtiyaç duyduğunuz her konuda size destek olmaya devam ediyoruz. Memnuniyetiniz, önceliğimizdir."
+      }
+    ],
+    "faq": [
+      {
+        "question": "Taş villa inşaatının diğer villa türlerine göre avantajları nelerdir?",
+        "answer": "Taş villalar, doğal yalıtım özellikleri sayesinde enerji tasarrufu sağlar, uzun ömürlüdür ve estetik açıdan benzersiz bir görünüm sunar. Ayrıca, doğal malzemeler kullanıldığı için çevre dostudur."
+      },
+      {
+        "question": "Proje süresi ne kadar sürer?",
+        "answer": "Proje süresi, villanın büyüklüğüne, tasarımına ve arazi koşullarına göre değişmektedir. Ancak, ortalama olarak 12-18 ay arasında tamamlanmaktadır. Proje başlamadan önce size detaylı bir zaman çizelgesi sunuyoruz."
+      },
+      {
+        "question": "Kullanılan malzemeler nelerdir ve nereden temin ediliyor?",
+        "answer": "Villalarımızda doğal taş, ahşap ve cam gibi yüksek kaliteli malzemeler kullanıyoruz. Malzemeler, yerel üreticilerden ve güvenilir tedarikçilerden temin edilmektedir. Sürdürülebilirlik ilkemiz doğrultusunda, çevreye duyarlı malzemeleri tercih ediyoruz."
+      },
+      {
+        "question": "Garanti süresi ne kadar?",
+        "answer": "İnşa ettiğimiz tüm villalar için yapısal garanti sunuyoruz. Garanti süresi, projenin kapsamına göre değişmekle birlikte, genellikle 5 yıldır. Garanti koşulları hakkında size detaylı bilgi veriyoruz."
       }
     ],
     "testimonials": [
       {
-        "name": "Ahmet Yılmaz",
-        "role": "CEO, Tech Corp",
-        "comment": "Harika bir ekip, işlerini zamanında ve mükemmel yapıyorlar."
-      },
-      {
         "name": "Ayşe Demir",
-        "role": "Pazarlama Müdürü",
-        "comment": "Satışlarımız %200 arttı. Kesinlikle tavsiye ediyorum."
+        "role": "Girişimci",
+        "comment": "Luxe Stone Villa, hayallerimdeki evi gerçeğe dönüştürdü. Kaliteli işçilikleri, estetik tasarımları ve müşteri odaklı yaklaşımları sayesinde kusursuz bir deneyim yaşadım. Herkese tavsiye ederim."
       }
     ],
     "contact": {
-      "address": "Levent, Büyükdere Cd. No:1, İstanbul",
-      "phone": "+90 555 123 45 67",
-      "email": "info@modernajans.com",
-      "map_query": "Istanbul"
+      "address": "kemalreis mahallesi",
+      "phone": "5541103132",
+      "email": "cankavlak@gmail.com",
+      "map_query": "Bodrum"
     }
   }
 }
